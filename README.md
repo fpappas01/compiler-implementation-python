@@ -6,6 +6,7 @@ Execution steps
 2. Run the compiler program using the python interpreter (e.g python3 test_program.cpy)
 
    --------------NOTE---------------
+   
 The output of the compiler program will be:
   1. A file containing the intermediate code.
   2. A file containing the symbol table.
