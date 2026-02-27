@@ -1,5 +1,5 @@
 # compiler-implementation-python
-This is an implementation of a compiler for a small language made in my University of Ioannina. 
+This is an implementation of a compiler for a small language made in University of Ioannina. 
 
 Execution steps
 1. Write a program in the CPY programming language as defined in the documentation given.
